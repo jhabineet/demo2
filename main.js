@@ -18,3 +18,5 @@ console.log("Have a great day!");
 console.log("This script demonstrates basic JavaScript functionality.");
 console.log("This script demonstrates basic JavaScript functionality.");
 console.log("This script demonstrates basic JavaScript functionality.");
+console.log("This script demonstrates basic JavaScript functionality.");
+console.log("This script demonstrates basic JavaScript functionality.");
