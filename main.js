@@ -11,3 +11,6 @@ greet("Alice");
 console.log(greet("Bob"));
 
 console.log("End of the program.");
+
+console.log("Thank you for running this script!");
+console.log("Have a great day!");
