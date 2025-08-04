@@ -7,3 +7,5 @@ function greet(name) {
 }
 
 greet("Alice");
+
+console.log(greet("Bob"));
