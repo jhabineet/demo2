@@ -9,3 +9,5 @@ function greet(name) {
 greet("Alice");
 
 console.log(greet("Bob"));
+
+console.log("End of the program.");
