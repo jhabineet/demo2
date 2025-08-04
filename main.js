@@ -33,3 +33,5 @@ console.log("This script demonstrates basic JavaScript functionality.");
 console.log("Thank you for running this script!");
 console.log("Thank you for running this script!");
 console.log("Thank you for running this script!");
+console.log("Thank you for running this script!");
+console.log("Thank you for running this script!");
