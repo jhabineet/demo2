@@ -20,3 +20,5 @@ console.log("This script demonstrates basic JavaScript functionality.");
 console.log("This script demonstrates basic JavaScript functionality.");
 console.log("This script demonstrates basic JavaScript functionality.");
 console.log("This script demonstrates basic JavaScript functionality.");
+console.log("This script demonstrates basic JavaScript functionality.");
+console.log("This script demonstrates basic JavaScript functionality.");
