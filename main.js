@@ -14,3 +14,5 @@ console.log("End of the program.");
 
 console.log("Thank you for running this script!");
 console.log("Have a great day!");
+
+console.log("This script demonstrates basic JavaScript functionality.");
